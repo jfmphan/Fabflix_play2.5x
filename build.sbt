@@ -1,4 +1,4 @@
-name := """Fabflix_play2.5.x"""
+name := """temp"""
 
 version := "1.0-SNAPSHOT"
 
